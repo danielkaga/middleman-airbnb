@@ -25,4 +25,6 @@ $border-radius-small: 2px;
 // Override other variables below!
 
 $btn-font-weight:                bold !default;
-$btn-default-color:              #355 !default;
+$btn-default-color:              $white !default;
+$btn-default-bg:                 $red !default;
+$btn-default-border:             $red !default;
